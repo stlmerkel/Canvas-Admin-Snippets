@@ -29,7 +29,7 @@ $copy_results=apply_content($destination_course,$source_course,$target); /// for
 
 echo copy_results; // This will print the results of the function call.
 
-
+//
 
 function copy_content($destination_course,$source_course,$target) {
 
